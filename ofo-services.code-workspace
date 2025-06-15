@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "ofo-user-service"
+		},
+		{
+			"path": "ofo-notification-service"
+		},
+		{
+			"path": "ofo-order-service"
+		},
+		{
+			"path": "ofo-payment-service"
+		},
+		{
+			"path": "ofo-restaurant-service"
+		},
+		{
+			"path": "ofo-tracking-service"
+		},
+		{
+			"path": ".git"
+		}
+	],
+	"settings": {}
+}
