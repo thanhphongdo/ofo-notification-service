@@ -1,24 +1,31 @@
 {
 	"folders": [
 		{
+			"name": "ofo-user-service",
 			"path": "ofo-user-service"
 		},
 		{
-			"path": "ofo-notification-service"
-		},
-		{
-			"path": "ofo-order-service"
-		},
-		{
-			"path": "ofo-payment-service"
-		},
-		{
+			"name": "ofo-restaurant-service",
 			"path": "ofo-restaurant-service"
 		},
 		{
+			"name": "ofo-order-service",
+			"path": "ofo-order-service"
+		},
+		{
+			"name": "ofo-payment-service",
+			"path": "ofo-payment-service"
+		},
+		{
+			"name": "ofo-notification-service",
+			"path": "ofo-notification-service"
+		},
+		{
+			"name": "ofo-tracking-service",
 			"path": "ofo-tracking-service"
 		},
 		{
+			"name": ".git",
 			"path": ".git"
 		}
 	],
